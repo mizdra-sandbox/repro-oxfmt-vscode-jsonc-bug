@@ -1,6 +1,5 @@
 import { defineConfig } from "oxfmt";
 
 export default defineConfig({
-	trailingComma: "all",
-	useTabs: true,
+  trailingComma: "all",
 });
